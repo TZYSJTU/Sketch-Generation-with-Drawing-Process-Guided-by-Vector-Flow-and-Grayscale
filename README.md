@@ -36,3 +36,6 @@ To draw arbitrary input: `python process_order.py`
 - `random_order = False` Use random drawing order if `True`
 - `ETF_order = True` Use the drawing order described in our paper if `True`
 - `process_visible = True` Whether show the drawing process 
+
+In our supplementary material, we explain these hyperparameters in more detail and we show more comparisons with existing pencil drawing algorithms. We also offer more
+results of our method. Our Supplementary Material is available at Baidu Netdisk (百度网盘) https://pan.baidu.com/s/1ZZEmpuPXRNBPvG0WHbbPKA. The extraction code (提取码) is `1234`.
