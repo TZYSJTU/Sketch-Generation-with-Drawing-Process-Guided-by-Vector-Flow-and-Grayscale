@@ -1,5 +1,6 @@
 # Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale
-This is the official implementation of the **AAAI 2021** accepted paper "**Sketch Generation with Drawing Process Guided by Vector Flow and Grayscale**". Here we give some instructions for running our code.
+This is the official implementation of the **AAAI 2021** accepted paper "**Sketch Generation with Drawing Process Guided by Vector Flow and Grayscale**". Our Supplementary Material is available at Baidu Netdisk (百度网盘) https://pan.baidu.com/s/1ZZEmpuPXRNBPvG0WHbbPKA. The extraction code is `1234`.
+Here we give some instructions for running our code.
 ## Examples
 We give three examples that can be run directly (the hyperparameters of these three examples have been adjusted).  
 ### Quick start. 
