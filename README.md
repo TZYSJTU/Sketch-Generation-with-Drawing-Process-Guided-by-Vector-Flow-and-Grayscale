@@ -24,11 +24,11 @@ To draw arbitrary input: `python process_order.py`
 - `n =  10` Gray-scale quantization order
 - `period = 5` Line(stroke) width
 - `direction =  10` Direction quantization order
-- `Freq = 100` Save the result every `Freq` strokes have been drawn
--deepen =  1             # for edge
--transTone = False       # for Tone8
--kernel_radius = 3       # for ETF
--iter_time = 15          # for ETF
+- `Freq = 100` Save the drawing process every `Freq` strokes are drawn
+- `deepen =  1` Edge map's 
+- `transTone = False` Do not change this
+- `kernel_radius = 3` Edge tangent flow kernel size, do not change this
+- `iter_time = 15` Edge tangent flow kernel iterations times, do not change this
 -background_dir = None   # for ETF 
 -CLAHE = True
 -edge_CLAHE = True
