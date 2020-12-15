@@ -29,7 +29,7 @@ To draw arbitrary input: `python process_order.py`
 - `transTone = False` Do not change this
 - `kernel_radius = 3` Edge tangent flow kernel size, do not change this
 - `iter_time = 15` Edge tangent flow kernel iterations times, do not change this
--background_dir = None   # for ETF 
+- `background_dir = None`  Whether fix the drawing direction in the background, this value could be `None` or an integer between `(0~180)`
 - `CLAHE = True` Whether input uses CLAHE (Do not change this)
 - `edge_CLAHE = True` Whether edge map uses CLAHE (Do not change this)
 - `draw_new = True` Do not change this
