@@ -45,7 +45,7 @@ results of our method. Our Supplementary Material is available at Baidu Netdisk 
 </div>
 
 <div align=center style="white-space: nowrap;">
-<img src="https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/master/Supplementary-Material/girl2.png"   alt="girl2"/> 
+<img src="https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/master/Supplementary-Material/girl2-RGB.png"   alt="girl2"/> 
 </div>
 
 <div align=center style="white-space: nowrap;">
@@ -53,5 +53,5 @@ results of our method. Our Supplementary Material is available at Baidu Netdisk 
 </div>
 
 <div align=center style="white-space: nowrap;">
-<img src="https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/master/Supplementary-Material/beauty.jpg"   alt="girl2"/> 
+<img src="https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/master/Supplementary-Material/beauty-RGB.jpg"   alt="girl2"/> 
 </div>
