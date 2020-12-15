@@ -20,7 +20,7 @@ We give three examples that can be run directly (the hyperparameters of these th
 To draw arbitrary input: `python process_order.py`
 ### Hyperparameters
 - `input_path` input image
--output_path = './output' 
+- `output_path = './output'` do not change
 
 -np.random.seed(1)
 -n =  10                 # Quantization order
