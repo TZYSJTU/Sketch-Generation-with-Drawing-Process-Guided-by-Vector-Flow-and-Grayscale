@@ -16,6 +16,25 @@ We give three examples that can be run directly (the hyperparameters of these th
 <img src="https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/master/Supplementary-Material/cat_RGB.jpg" height="285" alt="cat"/> <img src="https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/master/Supplementary-Material/dog_RGB.jpg" height="285" alt="cat"/> <img src="https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/master/Supplementary-Material/girl_RGB.jpg" height="285" alt="cat"/>
 </div>
 
-## instructions
+## Instructions
 To draw arbitrary input: `python process_order.py`
 ### Hyperparameters
+- `input_path` input image
+-output_path = './output' 
+
+-np.random.seed(1)
+-n =  10                 # Quantization order
+-period = 5              # line period
+-direction =  10         # num of dir
+-Freq = 100              # save every（freq) lines drawn
+-deepen =  1             # for edge
+-transTone = False       # for Tone8
+-kernel_radius = 3       # for ETF
+-iter_time = 15          # for ETF
+-background_dir = None   # for ETF 
+-CLAHE = True
+-edge_CLAHE = True
+-draw_new = True
+-random_order = False
+-ETF_order = True
+-process_visible = True
