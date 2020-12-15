@@ -6,6 +6,6 @@ Quick start. We give three examples that can be run directly (the hyperparameter
 - To draw the dog: `python dog.py`
 - To draw the girl: `python girl.py`
 ### Results
-<center class="half">
+<div width="500">
 <img src="https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/master/Supplementary-Material/cat.gif" height="285" alt="cat"/><img src="https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/master/Supplementary-Material/dog.gif" height="285" alt="cat"/><img src="https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/master/Supplementary-Material/girl.gif" height="285" alt="cat"/>
-</center>
+</div>
