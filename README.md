@@ -5,8 +5,8 @@ Here we give some instructions for running our code.
 ### First author
 Zhengyan Tong (童峥岩)， 此论文idea提供者以及代码原作者，主要从事计算机视觉方面的研究。发表此论文时为 上海交通大学 电子信息与电气工程学院 信息工程专业 大四在读本科生。
 ### Other author
-Xuanhong Chen (Shanghai Jiao Tong University Ph. D.)
-Bingbing Ni (Shanghai Jiao Tong University Associate Professor)
+Xuanhong Chen (Shanghai Jiao Tong University Ph. D.)  
+Bingbing Ni (Shanghai Jiao Tong University Associate Professor)  
 Xiaohang Wang (Shanghai Jiao Tong University undergraduate)
 
 ## Examples
