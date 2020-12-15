@@ -19,11 +19,9 @@ We give three examples that can be run directly (the hyperparameters of these th
 ## Instructions
 To draw arbitrary input: `python process_order.py`
 ### Hyperparameters
-- `input_path` input image
-- `output_path = './output'` do not change
-
--np.random.seed(1)
--n =  10                 # Quantization order
+- `input_path = './input/your file'` Input image path
+- `output_path = './output'` Do not change this
+- `n =  10` Gray-scale quantization order
 -period = 5              # line period
 -direction =  10         # num of dir
 -Freq = 100              # save every（freq) lines drawn
