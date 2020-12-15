@@ -3,7 +3,7 @@ This is the official implementation of the **AAAI 2021** accepted paper "**Sketc
 Here we give some instructions for running our code.
 ## Examples
 We give three examples that can be run directly (the hyperparameters of these three examples have been adjusted).  
-### Quick start. 
+### Quick start
 - To draw the cat: `python cat.py`
 - To draw the dog: `python dog.py`
 - To draw the girl: `python girl.py`
@@ -15,3 +15,6 @@ We give three examples that can be run directly (the hyperparameters of these th
 <div style="white-space: nowrap;">
 <img src="https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/master/Supplementary-Material/cat_RGB.jpg" height="285" alt="cat"/> <img src="https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/master/Supplementary-Material/dog_RGB.jpg" height="285" alt="cat"/> <img src="https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/master/Supplementary-Material/girl_RGB.jpg" height="285" alt="cat"/>
 </div>
+## instructions
+To draw arbitrary input: `python process_order.py`
+### Hyperparameters
