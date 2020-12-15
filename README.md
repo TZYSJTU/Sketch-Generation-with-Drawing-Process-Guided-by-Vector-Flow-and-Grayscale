@@ -33,6 +33,6 @@ To draw arbitrary input: `python process_order.py`
 - `CLAHE = True` Whether input uses CLAHE (Do not change this)
 - `edge_CLAHE = True` Whether edge map uses CLAHE (Do not change this)
 - `draw_new = True` Do not change this
-- `random_order = False` Use random order if `True`
--ETF_order = True
--process_visible = True
+- `random_order = False` Use random drawing order if `True`
+- `ETF_order = True` Use the drawing order described in our paper if `True`
+- `process_visible = True` Whether show the drawing process 
