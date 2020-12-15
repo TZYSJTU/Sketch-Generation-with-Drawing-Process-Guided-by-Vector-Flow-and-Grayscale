@@ -25,13 +25,13 @@ To draw arbitrary input: `python process_order.py`
 - `period = 5` Line(stroke) width
 - `direction =  10` Direction quantization order
 - `Freq = 100` Save the drawing process every `Freq` strokes are drawn
-- `deepen =  1` Edge map's 
+- `deepen =  1` Edge map's intensity. The bigger, the darker.
 - `transTone = False` Do not change this
 - `kernel_radius = 3` Edge tangent flow kernel size, do not change this
 - `iter_time = 15` Edge tangent flow kernel iterations times, do not change this
 -background_dir = None   # for ETF 
--CLAHE = True
--edge_CLAHE = True
+- `CLAHE = True` Whether input uses CLAHE (Do not change this)
+- `edge_CLAHE = True` Whether edge map uses CLAHE (Do not change this)
 -draw_new = True
 -random_order = False
 -ETF_order = True
