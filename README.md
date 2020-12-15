@@ -32,7 +32,7 @@ To draw arbitrary input: `python process_order.py`
 -background_dir = None   # for ETF 
 - `CLAHE = True` Whether input uses CLAHE (Do not change this)
 - `edge_CLAHE = True` Whether edge map uses CLAHE (Do not change this)
--draw_new = True
--random_order = False
+- `draw_new = True` Do not change this
+- `random_order = False` Use random order if `True`
 -ETF_order = True
 -process_visible = True
