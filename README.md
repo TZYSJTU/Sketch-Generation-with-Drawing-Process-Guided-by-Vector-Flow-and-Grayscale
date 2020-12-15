@@ -22,9 +22,9 @@ To draw arbitrary input: `python process_order.py`
 - `input_path = './input/your file'` Input image path
 - `output_path = './output'` Do not change this
 - `n =  10` Gray-scale quantization order
--period = 5              # line period
--direction =  10         # num of dir
--Freq = 100              # save every（freq) lines drawn
+- `period = 5` Line(stroke) width
+- `direction =  10` Direction quantization order
+- `Freq = 100` Save the result every `Freq` strokes have been drawn
 -deepen =  1             # for edge
 -transTone = False       # for Tone8
 -kernel_radius = 3       # for ETF
