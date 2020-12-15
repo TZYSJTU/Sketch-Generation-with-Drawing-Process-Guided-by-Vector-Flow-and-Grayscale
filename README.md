@@ -17,7 +17,7 @@ We give three examples that can be run directly (the hyperparameters of these th
 - To draw the girl: `python girl.py`
 ### Results
 <div align=center style="white-space: nowrap;">
-<img src="https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/master/Supplementary-Material/cat.gif" width="400" alt="cat"/> <img src="https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/master/Supplementary-Material/cat_RGB.jpg" width="400" alt="cat"/>
+<img src="https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/master/Supplementary-Material/cat.gif" width="500" alt="cat"/> <img src="https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/master/Supplementary-Material/cat_RGB.jpg" width="500" alt="cat"/>
 </div>
 
 <div align=center style="white-space: nowrap;">
