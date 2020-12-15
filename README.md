@@ -17,7 +17,7 @@ We give three examples that can be run directly (the hyperparameters of these th
 </div>
 
 ## Instructions
-To draw arbitrary input: `python process_order.py`
+To draw arbitrary input: `python process_order.py`. Of course you need to adjust the following parameters.
 ### Hyperparameters
 - `input_path = './input/your file'` Input image path
 - `output_path = './output'` Do not change this
