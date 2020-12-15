@@ -7,10 +7,6 @@ We give three examples that can be run directly (the hyperparameters of these th
 - To draw the dog: `python dog.py`
 - To draw the girl: `python girl.py`
 ### Results
-|<img src="https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/master/Supplementary-Material/cat.gif" height="285" alt="cat"/>|<img src="https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/master/Supplementary-Material/dog.gif" height="285" alt="cat"/>|<img src="https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/master/Supplementary-Material/girl.gif" height="285" alt="cat"/>|
-|---|---|---|
-|1|2|3|
-
 <div style="white-space: nowrap;">
 <img src="https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/master/Supplementary-Material/cat.gif" height="285" alt="cat"/><img src="https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/master/Supplementary-Material/dog.gif" height="285" alt="cat"/><img src="https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/master/Supplementary-Material/girl.gif" height="285" alt="cat"/>
 </div>
