@@ -5,3 +5,5 @@ Quick start. We give three examples that can be run directly (the hyperparameter
 - To draw the cat: `python cat.py`
 - To draw the dog: `python dog.py`
 - To draw the girl: `python girl.py`
+
+![RUNOOB 图标](https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/Supplementary Material/cat.gif)
