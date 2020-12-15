@@ -3,7 +3,7 @@ This is the official implementation of the **AAAI 2021** accepted paper "**Sketc
 Here we give some instructions for running our code.
 ## Authors
 ### First author
-Zhengyan Tong (童峥岩)， 为此论文idea提供者以及代码原作者，主要从事计算机视觉方面的研究。发表此论文时为 上海交通大学 电子信息与电气工程学院 信息工程专业 大四本科生。
+Zhengyan Tong (童峥岩)， 此论文idea提供者以及代码原作者，主要从事计算机视觉方面的研究。发表此论文时为 上海交通大学 电子信息与电气工程学院 信息工程专业 大四本科生。
 
 ## Examples
 We give three examples that can be run directly (the hyperparameters of these three examples have been fixed).  
