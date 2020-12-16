@@ -9,9 +9,8 @@ Zhengyan Tong (童峥岩)， 此论文idea提供者以及代码原作者，主�
 - Bingbing Ni (Shanghai Jiao Tong University Associate Professor)  Corresponding author
 - Xiaohang Wang (Shanghai Jiao Tong University Undergraduate)
 ## Acknowledgments
-I am extremely grateful to *Second Author* Xuanhong Chen for his advice, comments, and encouragement, 
-In particular，I would like to express my gratitude to myparents for their support; they provided the computers for me to searchfor information. It is of great help for me to finish this thesis successfully.
-
+- I am extremely grateful to **Second Author** Xuanhong Chen for his professional advice, comments, and encouragement, which greatly improves this work. 
+- In particular，I would like to express my gratitude to my junior high school classmate Tianhao Shen for his enthusiasm and selfless help in code debugging.  
 
 ## Examples
 We give three examples that can be run directly (the hyperparameters of these three examples have been fixed).  
