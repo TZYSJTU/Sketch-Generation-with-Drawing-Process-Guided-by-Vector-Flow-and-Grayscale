@@ -70,3 +70,27 @@ results of our method. Our Supplementary Material is available at Baidu Netdisk 
 <div align=center style="white-space: nowrap;">
 <img src="https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/master/Supplementary-Material/beauty-RGB.jpg"   alt="girl2"/> 
 </div>
+
+<div align=center style="white-space: nowrap;">
+<img src="https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/master/Supplementary-Material/house-gray.jpg"   alt="girl2"/> 
+</div>
+
+<div align=center style="white-space: nowrap;">
+<img src="https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/master/Supplementary-Material/house-RGB.jpg"   alt="girl2"/> 
+</div>
+
+<div align=center style="white-space: nowrap;">
+<img src="https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/master/Supplementary-Material/Two-gray.jpg"   alt="girl2"/> 
+</div>
+
+<div align=center style="white-space: nowrap;">
+<img src="https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/master/Supplementary-Material/Two-RGB.jpg"   alt="girl2"/> 
+</div>
+
+<div align=center style="white-space: nowrap;">
+<img src="https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/master/Supplementary-Material/David-gray.jpg"   alt="girl2"/> 
+</div>
+
+<div align=center style="white-space: nowrap;">
+<img src="https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/master/Supplementary-Material/David-RGB.jpg"   alt="girl2"/> 
+</div>
