@@ -2,12 +2,16 @@
 This is the official implementation of the **AAAI 2021** accepted paper "**Sketch Generation with Drawing Process Guided by Vector Flow and Grayscale**". Our Supplementary Material (PDF) is available at Baidu Netdisk (百度网盘) https://pan.baidu.com/s/1ZZEmpuPXRNBPvG0WHbbPKA. The extraction code (提取码) is `1234`.
 Here we give some instructions for running our code.
 ## Authors
-### First author
+### First Author
 Zhengyan Tong (童峥岩)， 此论文idea提供者以及代码原作者，主要从事计算机视觉方面的研究。发表此论文时为上海交通大学电子信息与电气工程学院信息工程专业大四在读本科生。
-### Other authors
-Xuanhong Chen (Shanghai Jiao Tong University Ph. D.)  
-Bingbing Ni (Shanghai Jiao Tong University Associate Professor)  
-Xiaohang Wang (Shanghai Jiao Tong University Undergraduate)
+### Other Authors
+- Xuanhong Chen (Shanghai Jiao Tong University Ph. D.)  
+- Bingbing Ni (Shanghai Jiao Tong University Associate Professor)  Corresponding author
+- Xiaohang Wang (Shanghai Jiao Tong University Undergraduate)
+## Acknowledgments
+I am extremely grateful to *Second Author* Xuanhong Chen for his advice, comments, and encouragement, 
+In particular，I would like to express my gratitude to myparents for their support; they provided the computers for me to searchfor information. It is of great help for me to finish this thesis successfully.
+
 
 ## Examples
 We give three examples that can be run directly (the hyperparameters of these three examples have been fixed).  
