@@ -3,7 +3,7 @@ This is the official implementation of the **AAAI 2021** accepted paper "**Sketc
 Here we give some instructions for running our code.
 ## Authors
 ### First Author
-Zhengyan Tong (童峥岩)， 此论文idea提供者以及代码原作者，主要从事计算机视觉方面的研究。发表此论文时为上海交通大学电子信息与电气工程学院信息工程专业大四在读本科生。
+Zhengyan Tong (童峥岩)， 此论文idea提供者、代码原作者、论文主笔者，主要从事计算机视觉方面的研究。发表此论文时为上海交通大学电子信息与电气工程学院信息工程专业大四在读本科生。
 ### Other Authors
 - Xuanhong Chen (Shanghai Jiao Tong University Ph. D.)  
 - Bingbing Ni (Shanghai Jiao Tong University Associate Professor)  Corresponding author
