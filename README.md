@@ -10,7 +10,7 @@ Zhengyan Tong (童峥岩)， 此论文idea提供者、代码原作者、论文�
 - Xiaohang Wang (Shanghai Jiao Tong University Undergraduate)
 ## Acknowledgments
 - I am extremely grateful to the **Second Author** Xuanhong Chen for his professional advice, comments, and encouragement, which greatly improves this work. 
-- In particular，I would like to express my gratitude to my junior high school classmate Tianhao Shen for his enthusiasm and selfless help in code debugging, although he is not one of the authors of this paper.  
+- In particular，I would like to express my gratitude to my junior high school classmate Tianhao Shen for his enthusiastic and selfless help in code debugging, although he is not one of the authors of this paper.  
 
 ## Examples
 We give three examples that can be run directly (the hyperparameters of these three examples have been fixed).  
