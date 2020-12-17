@@ -143,12 +143,12 @@ class ETF():
                 minimum = 90-length/2
                 mask2 = 255*((angle>minimum)+(angle==minimum))
                 mask = mask1 + mask2
-                cv2.imwrite(self.output_path+'./dir_mask{}.png'.format(i),np.uint8(mask.numpy()))
+                cv2.imwrite(self.output_path+'/dir_mask{}.png'.format(i),np.uint8(mask.numpy()))
             else:
                 minimum = -90+(i-1/2)*length   
                 maximum = minimum + length  
                 mask = 255*(((angle>minimum)+(angle==minimum))*(angle<maximum))
-                cv2.imwrite(self.output_path+'./dir_mask{}.png'.format(i),np.uint8(mask.numpy()))
+                cv2.imwrite(self.output_path+'/dir_mask{}.png'.format(i),np.uint8(mask.numpy()))
 
         return
 
