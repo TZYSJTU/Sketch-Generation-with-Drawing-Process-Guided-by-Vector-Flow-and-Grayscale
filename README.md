@@ -56,6 +56,26 @@ To draw arbitrary input: `python process_order.py`. Of course you need to adjust
 
 In our supplementary material (PDF), we explain these hyperparameters in more detail and we show more comparisons with existing pencil drawing algorithms. We also offer more
 results of our method. Our Supplementary Material is available at Baidu Netdisk (百度网盘) https://pan.baidu.com/s/1ZZEmpuPXRNBPvG0WHbbPKA. The extraction code (提取码) is `1234`.
+
+# To cite our paper
+```
+@inproceedings{DBLP:conf/aaai/TongCNW21,
+  author    = {Zhengyan Tong and
+               Xuanhong Chen and
+               Bingbing Ni and
+               Xiaohang Wang},
+  title     = {Sketch Generation with Drawing Process Guided by Vector Flow and Grayscale},
+  booktitle = {Thirty-Fifth {AAAI} Conference on Artificial Intelligence, {AAAI}
+               2021, Thirty-Third Conference on Innovative Applications of Artificial
+               Intelligence, {IAAI} 2021, The Eleventh Symposium on Educational Advances
+               in Artificial Intelligence, {EAAI} 2021, Virtual Event, February 2-9,
+               2021},
+  pages     = {609--616},
+  publisher = {{AAAI} Press},
+  year      = {2021},
+}
+```
+
 ### Results
 <div align=center style="white-space: nowrap;">
 <img src="https://raw.githubusercontent.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale/master/Supplementary-Material/girl2.gif"   width="1000" alt="girl2"/> 
