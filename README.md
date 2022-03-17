@@ -67,12 +67,7 @@ results of our method. Our Supplementary Material is available at Baidu Netdisk 
                Xiaohang Wang},
   title     = {Sketch Generation with Drawing Process Guided by Vector Flow and Grayscale},
   booktitle = {Thirty-Fifth {AAAI} Conference on Artificial Intelligence, {AAAI}
-               2021, Thirty-Third Conference on Innovative Applications of Artificial
-               Intelligence, {IAAI} 2021, The Eleventh Symposium on Educational Advances
-               in Artificial Intelligence, {EAAI} 2021, Virtual Event, February 2-9,
                2021},
-  pages     = {609--616},
-  publisher = {{AAAI} Press},
   year      = {2021},
 }
 ```
