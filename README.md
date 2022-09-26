@@ -60,15 +60,14 @@ results of our method. Our Supplementary Material is available at Baidu Netdisk 
 
 # To cite our paper
 ```
-@inproceedings{DBLP:conf/aaai/TongCNW21,
-  author    = {Zhengyan Tong and
-               Xuanhong Chen and
-               Bingbing Ni and
-               Xiaohang Wang},
-  title     = {Sketch Generation with Drawing Process Guided by Vector Flow and Grayscale},
-  booktitle = {Thirty-Fifth {AAAI} Conference on Artificial Intelligence, {AAAI}
-               2021},
-  year      = {2021},
+@inproceedings{tong2021sketch,
+  title={Sketch generation with drawing process guided by vector flow and grayscale},
+  author={Tong, Zhengyan and Chen, Xuanhong and Ni, Bingbing and Wang, Xiaohang},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={35},
+  number={1},
+  pages={609--616},
+  year={2021}
 }
 ```
 
